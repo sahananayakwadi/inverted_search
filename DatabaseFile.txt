@@ -1,0 +1,11 @@
+#0;and;2;file1.txt;2;file2.txt;2;#
+#1;Bear;1;file1.txt;1;#
+#2;cockroaches;1;file1.txt;1;#
+#3;Doraemon;1;file2.txt;1;#
+#6;geronimo;1;file2.txt;1;#
+#12;Masha;1;file1.txt;1;#
+#13;nobitha;1;file2.txt;1;#
+#14;oggy;1;file1.txt;1;#
+#18;stilton;1;file2.txt;2;#
+#19;the;1;file1.txt;2;#
+#19;theo;1;file2.txt;1;#
